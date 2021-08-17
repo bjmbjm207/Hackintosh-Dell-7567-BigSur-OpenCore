@@ -26,16 +26,16 @@
    - Disable Secure Boot
    - Disable SGX
 
-## Tạo bộ cài
+# Tạo bộ cài
 
-# Tạo bộ cài trên MacOS
+## Tạo bộ cài trên MacOS
 
 - Tải xuống bộ cài MacOS Big Sur từ các nguồn, đuôi dmg.
 - Vất vào Applications rồi làm theo hướng dẫn tạo bộ cài lên USB bằng bài viết này:
 https://blogchiasekienthuc.com/hackintosh/tao-usb-cai-hackintosh-voi-clover-bootloader.html
 
 
-# Tạo bộ cài trên Windows
+## Tạo bộ cài trên Windows
 
 - Tải xuống bộ cài MacOS Big Sur từ các nguồn, đuôi raw.
 - Dùng thằng Etcher hoặc Win32 Disk Imager để ghi lên USB.
