@@ -43,7 +43,7 @@ https://blogchiasekienthuc.com/hackintosh/tao-usb-cai-hackintosh-voi-clover-boot
 
 
 
-## Chuẩn bị EFI trên ổ cứng dể boot vào bộ cài từ USB
+## Chuẩn bị EFI trên ổ cứng để boot vào bộ cài từ USB
 
 - Dùng win pe và sử dụng công cụ minitool partition wizard 12.
 - Ổ cứng để địng dạng GPT
