@@ -61,10 +61,10 @@ https://blogchiasekienthuc.com/hackintosh/tao-usb-cai-hackintosh-voi-clover-boot
 
 
 **Cài đặt ComboJack fix Headphone Jack**
-  - cd đến thư mục chứa ComboJack_Installer
+  - Mở terminal
+  - cd đến thư mục chứa thư mục ComboJack_Installer
   - Run ComboJack_Installer/install.sh
   - Reboot  
-  
   
 **To Do List and Things to Consider**
 - Config file does not include SMBIOS parameters which is a must. One needs to provide own values. There are guides here and there. Your friend is google as always. For ROM adress you can use your builtin ethernet card MAC adress. MacSerial by Acidanthera is a good way to obtain proper serial and motherboard serial numbers. UUID can be generated with terminal command uuidgen. Make it produced at least five times to be sure it is unique enough. For working imessage and facetime all should be set in a sensible way and make sure that they are not used by someone else either hackintosh or real mac.
